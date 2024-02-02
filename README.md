@@ -3,6 +3,7 @@
 ----
 ![tech stack](https://img.shields.io/static/v1?label=&message=tech+stack:&color=111&style=for-the-badge)
 
+![linux](https://img.shields.io/static/v1?logo=linux&label=&message=linux&color=111&logoColor=AAA&style=flat-square)
 ![go](https://img.shields.io/static/v1?logo=go&label=&message=golang&color=111&logoColor=AAA&style=flat-square)
 ![python](https://img.shields.io/static/v1?logo=python&label=&message=python&color=111&logoColor=AAA&style=flat-square&link=)
 ![c](https://img.shields.io/static/v1?logo=c&label=&message=c&color=111&logoColor=AAA&style=flat-square)
