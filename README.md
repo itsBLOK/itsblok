@@ -5,8 +5,9 @@
 
 ![go](https://img.shields.io/static/v1?logo=go&label=&message=golang&color=111&logoColor=AAA&style=flat-square)
 ![python](https://img.shields.io/static/v1?logo=python&label=&message=python&color=111&logoColor=AAA&style=flat-square&link=)
-![javascript](https://img.shields.io/static/v1?logo=javascript&label=&message=javascript&color=111&logoColor=AAA&style=flat-square)
-![typescript](https://img.shields.io/static/v1?logo=typescript&label=&message=typescript&color=111&logoColor=AAA&style=flat-square)
+![c](https://img.shields.io/static/v1?logo=c&label=&message=c&color=111&logoColor=AAA&style=flat-square)
+![cplusplus](https://img.shields.io/static/v1?logo=cplusplus&label=&message=c+plus+plus&color=111&logoColor=AAA&style=flat-square)
+![csharp](https://img.shields.io/static/v1?logo=csharp&label=&message=c+sharp&color=111&logoColor=AAA&style=flat-square)
 ![kubernetes](https://img.shields.io/static/v1?logo=kubernetes&label=&message=kubernetes&color=111&logoColor=AAA&style=flat-square)
 ![docker](https://img.shields.io/static/v1?logo=docker&label=&message=docker&color=111&logoColor=AAA&style=flat-square)
 ![vim](https://img.shields.io/static/v1?logo=vim&label=&message=vim&color=111&logoColor=AAA&style=flat-square)
