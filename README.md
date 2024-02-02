@@ -35,4 +35,4 @@
 <a href="https://linkedin.com/in/ilkemburdur">
   <img align="left" alt="ilkem's LinkedIn" width="20px" src="https://simpleicons.now.sh/linkedin/AAA" />
 </a>
-| &nbsp;&nbsp;&nbsp; Website : [ilkem {dot} space](https://ilkem.space) &nbsp;&nbsp;&nbsp;
+| &nbsp;&nbsp;&nbsp; Website : <a href="https://ilkem.space">ilkem {dot} space</a> &nbsp;&nbsp;&nbsp;
