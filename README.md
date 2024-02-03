@@ -3,7 +3,7 @@
 ----
 ![tech stack](https://img.shields.io/static/v1?label=&message=tech+stack:&color=111&style=for-the-badge)
 
-![linux](https://img.shields.io/static/v1?logo=linux&label=&message=linux&color=111&logoColor=AAA&style=flat-square)
+![linux](https://img.shields.io/static/v1?logo=linux&label=&message=linux&color=111&logoColor=AAA&style=flat-square)/![windows](https://img.shields.io/static/v1?logo=windows&label=&message=windows&color=111&logoColor=AAA&style=flat-square)
 ![go](https://img.shields.io/static/v1?logo=go&label=&message=golang&color=111&logoColor=AAA&style=flat-square)
 ![python](https://img.shields.io/static/v1?logo=python&label=&message=python&color=111&logoColor=AAA&style=flat-square&link=)
 ![c](https://img.shields.io/static/v1?logo=c&label=&message=c&color=111&logoColor=AAA&style=flat-square)
@@ -18,11 +18,11 @@
 ![mongodb](https://img.shields.io/static/v1?logo=mongodb&label=&message=mongodb&color=111&logoColor=AAA&style=flat-square)
 ![apachecassandra](https://img.shields.io/static/v1?logo=apachecassandra&label=&message=cassandra&color=111&logoColor=AAA&style=flat-square)
 ![scylladb](https://img.shields.io/static/v1?logo=scylladb&label=&message=scylladb&color=111&logoColor=AAA&style=flat-square)
+![amazondynamodb](https://img.shields.io/static/v1?logo=amazondynamodb&label=&message=dynamodb&color=111&logoColor=AAA&style=flat-square)
 ![graphql](https://img.shields.io/static/v1?logo=graphql&label=&message=graphql&color=111&logoColor=AAA&style=flat-square)
 ![amazonaws](https://img.shields.io/static/v1?logo=amazonaws&label=&message=aws&color=111&logoColor=AAA&style=flat-square)
+![oracle](https://img.shields.io/static/v1?logo=oracle&label=&message=oracle&color=111&logoColor=AAA&style=flat-square)
 ![googlecloud](https://img.shields.io/static/v1?logo=googlecloud&label=&message=googlecloud&color=111&logoColor=AAA&style=flat-square)
-![slack](https://img.shields.io/static/v1?logo=slack&label=&message=slack&color=111&logoColor=AAA&style=flat-square)
-![trello](https://img.shields.io/static/v1?logo=trello&label=&message=trello&color=111&logoColor=AAA&style=flat-square)
 ![jirasoftware](https://img.shields.io/static/v1?logo=jirasoftware&label=&message=jira&logoColor=AAA&color=111&style=flat-square)
 ![figma](https://img.shields.io/static/v1?logo=figma&label=&message=figma&color=111&logoColor=AAA&style=flat-square)
 
